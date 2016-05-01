@@ -1,2 +1,3 @@
 # node-babel
-Node.js + Babel for ES6+
+
+Node.js + Gulp/Babel configured for upto ES2015 stage-3
