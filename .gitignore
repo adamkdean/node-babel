@@ -1,6 +1,6 @@
-*.log
-npm-debug.log*
+dist/*
+!dist/.gitkeep
 node_modules
 .npm
-!dist/.gitkeep
-dist/
+npm-debug.log*
+*.log
